@@ -1,6 +1,6 @@
-package address_Book;
+package Address_Book;
 
-public class Methods {
+public class Menu {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
