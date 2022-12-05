@@ -1,6 +1,6 @@
-package address_Book;
-//Phi
-public class Contacts {
+package Address_Book;
+
+public class Methods {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
